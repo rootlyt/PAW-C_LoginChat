@@ -1,0 +1,14 @@
+body {
+  background-color: powderblue;
+}
+textarea{
+    max-width: 240px;
+}
+.isi{
+    max-width: 250px;
+    margin: auto;
+    background: rgb(74, 131, 206);
+    padding: 10px;
+}
+
+
